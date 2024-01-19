@@ -52,7 +52,7 @@ html{
 .selectionDiv{
     width:20vh;
     height:80vh;
-    opacity: 0.2;
+    opacity: 0.30;
     transition: 0.35s;
 
     
@@ -243,7 +243,7 @@ html{
 
 .bg {
     animation:slide-effect 13s ease-in-out infinite alternate;
-    background-image: linear-gradient(-60deg, #000000 60%, #021623 40%);
+    background-image: linear-gradient(-60deg, #040e29 60%, rgb(13, 46, 86) 40%);
     bottom:0;
     left:-50%;
     opacity:.5;

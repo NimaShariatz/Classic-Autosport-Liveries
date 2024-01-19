@@ -34,17 +34,6 @@ body, html{
     border: 2px solid #2a2a2a;
   }
 
-
-.menu_pic{
-  transition: .2s;
-
-}
-.menu_pic:hover{
-  transform: scale(1.05);
-
-}
-
-
 .menu_link{
   display: flex;
   justify-content: center;
@@ -56,44 +45,17 @@ body, html{
   border-right-width: 0px;
   border-top-width:0px;
   border-bottom-width:0px;
-  border-color:#071f2f;
+  border-color:#cccccc;
 }
 
 .menu_link:hover{
 
-  color:#d31f37f3;
-  background-color: #071f2f;
+  color:black;
+  background-color: white;
   
-
+/*d31f37f3 071f2f*/
 
 }
-
-
-
-.effect-three {/* see https://codepen.io/jltk/pen/dMvGvG */
-	display: inline-block;
-	position: relative;
-}
-
-.effect-three::after{
-		content: "";
-		display: block;
-		position: absolute;
-		width: 0;
-		bottom: 0;
-		height: 2px;
-		margin: -5px 0;
-		left: 0;
-		background-color: #d31f37f3;
-		transition: all 0.4s ease-in 0s;
-	}
-	.effect-three:hover::after{
-		width: 100%;
-	}
-
-
-
-
 
 .mainTitle{
   font-family: 'Galada', cursive;
@@ -117,20 +79,15 @@ body, html{
   position: absolute;
   top: 20%;
   
- 
-  
-    
   color: #f1f1f1;
 
-
-
-  animation: fadeInAnimation ease 2s;
+  animation: fadeInAnimation ease 2.5s;
   animation-iteration-count: 1;
   animation-fill-mode:forwards;
 }
 @keyframes fadeInAnimation {
   0% {
-      opacity: 0.1;
+      opacity: 0.15;
   }
   100% {
       opacity: 1;
