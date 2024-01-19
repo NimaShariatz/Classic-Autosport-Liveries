@@ -1,4 +1,4 @@
-<img src="/MainPage/logo.png" alt="Classic Autosport Liveries logo" width="20" height="auto"> Link: https://nimashariatz.github.io/Classic-Autosport-Liveries/ 
+<img src="/MainPage/L1.png" alt="Classic Autosport Liveries logo" width="50" height="auto"> Link: https://nimashariatz.github.io/Classic-Autosport-Liveries/ 
 
 # information
 **CLassic Autosport Liveries**
