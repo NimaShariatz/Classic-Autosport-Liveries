@@ -1,0 +1,185 @@
+p, h1, h2, h3, a {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+body, html{
+  margin:0;
+  padding:0;
+}
+
+
+/* Works on Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color:  #2a2a2a #695f5b;
+  }
+  
+  /* Works on Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 4px;
+  }
+  
+  *::-webkit-scrollbar-track {
+    background: #695f5b;
+    border-radius: 60px;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    background-color: #2a2a2a;
+    border-radius: 8px;
+    border: 2px solid #2a2a2a;
+  }
+
+
+.menu_pic{
+  transition: .2s;
+
+}
+.menu_pic:hover{
+  transform: scale(1.05);
+
+}
+
+
+.menu_link{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:120px;
+  font-size:10px;
+  border-style:solid;
+  border-left-width:0.5px;
+  border-right-width: 0px;
+  border-top-width:0px;
+  border-bottom-width:0px;
+  border-color:#071f2f;
+}
+
+.menu_link:hover{
+
+  color:#d31f37f3;
+  background-color: #071f2f;
+  
+
+
+}
+
+
+
+.effect-three {/* see https://codepen.io/jltk/pen/dMvGvG */
+	display: inline-block;
+	position: relative;
+}
+
+.effect-three::after{
+		content: "";
+		display: block;
+		position: absolute;
+		width: 0;
+		bottom: 0;
+		height: 2px;
+		margin: -5px 0;
+		left: 0;
+		background-color: #d31f37f3;
+		transition: all 0.4s ease-in 0s;
+	}
+	.effect-three:hover::after{
+		width: 100%;
+	}
+
+
+
+
+
+.mainTitle{
+  font-family: 'Galada', cursive;
+  font-style: italic;
+
+}
+
+.marl_video{
+
+  opacity: 0.65;
+  width: 100%;
+  height: auto;
+  
+
+
+}
+
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: absolute;
+  top: 20%;
+  
+ 
+  
+    
+  color: #f1f1f1;
+
+
+
+  animation: fadeInAnimation ease 2s;
+  animation-iteration-count: 1;
+  animation-fill-mode:forwards;
+}
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0.1;
+  }
+  100% {
+      opacity: 1;
+   }
+}
+
+
+
+
+
+
+.parallax {
+
+  background-image: url("marl_red.png");
+
+  min-width: 400px;
+  min-height: 400px;
+
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+.row-flex {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+}
+
+.col-flex {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+
+.grow-flex {
+    display: flex;
+    flex-grow: 1;
+    padding: 0;
+    margin: 0;
+}

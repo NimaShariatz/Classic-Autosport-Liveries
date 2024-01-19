@@ -1,0 +1,52 @@
+            <div style="margin-left:auto;" class="row-flex">
+
+                <a href="Marlboro_livery.html">
+                    <div class="menu_pic" style="width:60px; height:50px; background-color:white;">
+                        <img src="Marlboro-Logo-1955.png" style="background-color:white; width:60px; height:auto;">
+                    </div>
+                </a>
+                <div class="menu_pic" style="width:60px; height:50px; background-color:#fa0101;">
+                    <img src="../QuattroClub/Audi_logo2.png" style=" background-color:#fa0101; width:60px; height:auto;">
+                </div>
+                <div class="menu_pic" style="width:60px; height:50px; background-color:#1a2c58;">
+                    <img src="../MartiniClub/Martini-logo-SVGV2.png" style="margin-left:7.5px; margin-top:13px; background-color:#1a2c58; width:45px; height:auto;">
+                </div>
+                <div class="menu_pic" style="width:60px; height:50px; background-color:#ff6312;">
+                    <img src="../GulfClub/Gulf_Oil_Logo.png" style="margin-left:10.5px; margin-top:4px; background-color:#ff6312; width:40px; height:auto;">
+                </div>
+                <div class="menu_pic" style="width:60px; height:50px; background-color:black;">
+                    <img src="../JohnPlayerSpecialClub/jps-logo2clear.png" style="margin-left:12.5px; margin-top:5px; background-color:black; width:36px; height:auto;">
+                </div>
+                
+            </div>
+
+
+
+            <div style="margin-left:auto; font-size:6px;" class="row-flex">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <a href="Marlboro_livery.html" style="padding-right:10px;">
+                        MARLBORO CLUB
+                    </a>
+                </div>
+
+
+
+
+        <div style="width:300px; height:900px;">
+            <div class="parallax">
+
+            </div>
+        </div>
+
+
+
+                
+
+
+
+
+
+
+
+
+        <div class="parallax"></div> <!--parallax: https://www.w3schools.com/howto/howto_css_parallax.asp-->
