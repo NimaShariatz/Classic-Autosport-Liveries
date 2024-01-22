@@ -1,7 +1,7 @@
 p, h1, h2, h3, a {
     margin: 0;
     padding: 0;
-    color: white;
+    color: #f1f1f1;
     font-family: 'Nunito Sans', sans-serif;
     
 }
@@ -78,8 +78,8 @@ p {
 
 .menu_link:hover{
 
-  color:black;
-  background-color: white;
+  color:#d31f37f3;
+  background-color: #071f2f;
   
 /*d31f37f3 071f2f*/
 
@@ -93,7 +93,7 @@ p {
 
 .marl_video{
 
-  opacity: 0.65;
+  opacity: 0.75;
   width: 100%;
   height: auto;
   
@@ -129,11 +129,10 @@ p {
 
 .parallax {
 
-  background-image: url("marl_red.png");
+  background-image: url("ayert1.jpg");
 
 
   position: relative;
-  opacity: 0.65;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
