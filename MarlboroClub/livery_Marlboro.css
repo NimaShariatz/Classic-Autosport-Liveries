@@ -12,7 +12,7 @@ body, html{
 }
 
 p {
-  font-size:20px;
+  font-size:13px;
   line-height: 2;
 }
 
@@ -130,6 +130,18 @@ p {
 .parallax {
 
   background-image: url("ayert1.jpg");
+
+
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2{
+
+  background-image: url("marl_draw.png");
 
 
   position: relative;
