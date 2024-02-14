@@ -11,3 +11,14 @@ The idea of this website is to be a source of practice and growth in raw HTML/CS
 The objective is that over the span of several months, a reasonable facsimile to a well-made website would be the result.
 
 This site was built using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
+
+
+# completion status
+Home page: ~ 75%
+Marlboro club: ~35%
+Quattro club: ~0%
+Martini club: ~0%
+Gulf club: ~0%
+John Player Special club: ~0%
+
