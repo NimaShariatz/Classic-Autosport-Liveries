@@ -15,7 +15,8 @@ This site was built using [GitHub Pages](https://docs.github.com/en/pages/gettin
 
 
 # completion status
-Home page: ~ 75%
+**Rate to completion of pages**
+Home page: ~75%
 Marlboro club: ~35%
 Quattro club: ~0%
 Martini club: ~0%
